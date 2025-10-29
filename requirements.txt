@@ -3,3 +3,4 @@ nltk
 pandas
 requests
 numpy
+scikit-learn
